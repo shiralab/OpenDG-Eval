@@ -9,21 +9,16 @@ This is the implement for the following paper.
 ## Directory
 ```
 .
-├── README.md
-├── appendix.pdf
-└── code
-    ├── alg
-    ├── dalib
-    ├── datautil
-    ├── eval.py
-    ├── eval_hscore.py
-    ├── network
-    ├── scripts
-    ├── train.py
-    └── utils
+├── alg
+├── dalib
+├── datautil
+├── eval.py
+├── eval_hscore.py
+├── network
+├── scripts
+├── train.py
+└── utils
 ```
-- __appendix.pdf__
-  - Supplemental material for the paper.
 - __alg__
   - Implements for each algorithm.
 - __dalib__
